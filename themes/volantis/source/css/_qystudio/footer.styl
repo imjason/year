@@ -1,0 +1,132 @@
+#footer 
+	background 0 0
+	&::before 
+		content none
+[color-scheme=dark] 
+	#footer 
+		&::before 
+			content none
+	a 
+		&.icon_link 
+			background-color #ececec
+	#footer_icon 
+		i 
+			color #202020
+		a 
+			&:hover 
+				i 
+					color #fff
+div#footer_icon 
+	border-radius 15px 15px 0 0
+	padding-top 2rem
+	display flex
+	justify-content center
+	flex-wrap wrap
+	align-items center
+#footer_icon 
+	i 
+		padding-top 1px
+		font-size 20px
+		color #fff
+		transition 0.3s
+	a 
+		&:hover 
+			background-color #49b1f5
+a 
+	&.icon_link 
+		height 40px
+		width 40px
+		display flex
+		align-items center
+		justify-content center
+		margin 1rem
+		background-color #4c4948
+		border-radius 3rem
+.icon_left, .icon_right 
+	display flex
+img 
+	&.footer_logo 
+		border-radius 50%
+		width 60px
+		height 60px
+		margin 0 1rem
+		cursor pointer
+		filter drop-shadow(0 0 12px rgba(187,138,64,0.35))
+		transition cubic-bezier(0, 0, 0, 1.29) 0.5s
+		transition all 0.25s
+		display none
+		&:hover 
+			filter drop-shadow(0 0 15px rgba(187,138,64,0.7))
+#footer_icon, #crl-footer 
+	margin auto
+	max-width 1200px
+	width 97%
+	background rgba(245,249,255,0.6)
+[color-scheme=dark] #footer_icon, [color-scheme=dark] #crl-footer 
+	background rgba(24,24,30,0.5)
+#crl-footer 
+	border-radius 0 0 15px 15px
+	display flex
+	flex-direction row
+	justify-content space-between
+	flex-wrap wrap
+	margin-bottom 3rem
+	padding 0 2rem 2rem
+	padding 1rem
+	.footer-group 
+		min-width 120px
+		text-align center
+	.footer-title 
+		color var(--font-color)
+	.footer-links 
+		display flex
+		flex-direction column
+	.footer-item 
+		font-size 1rem
+		line-height 1
+		margin 0.38rem 0
+		color var(--font-color)
+#footer-bottom 
+	font-size 1rem
+	padding 1rem
+	color var(--font-color)
+	margin-top 1rem
+	background var(--card-bg)
+	display flex !important
+	overflow hidden
+	z-index 1002
+	transition 0.3s
+	border-top 1px solid #e3e8f7
+	padding 1rem 0
+	.footer-bottom-links 
+		display flex
+		justify-content space-between
+		max-width 1200px
+		width 100%
+		margin 0 auto
+		flex-wrap wrap
+	.footer-bottom-left 
+		display flex
+		flex-wrap wrap
+		min-height 32px
+		color var(--font-color)
+		font-weight 700
+		white-space nowrap
+	& > div 
+		& > div 
+			&.footer-bottom-left 
+				& > span 
+					margin-right 1rem
+	.footer-bottom-right 
+		display flex
+		flex-direction row
+		flex-wrap wrap
+	.footer-bottom-link 
+		margin-right 1rem
+		color var(--font-color)
+		font-weight 700
+		white-space nowrap
+		margin-right 0.5rem
+.footer-bottom-left, .footer-bottom-right 
+	width 100%
+	justify-content center
