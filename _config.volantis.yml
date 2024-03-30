@@ -1266,7 +1266,8 @@ custom_css:
       fontfamily: 'Dosis, "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
       name: 'Dosis'
       url: volantis-static/media/fonts/Dosis/Dosis-Medium.ttf
-      weight: normal                                      style: normal
+      weight: normal
+      style: normal
     codefont:
       fontfamily: 'Menlo, UbuntuMono, Monaco'
       # name: 'Monaco'
