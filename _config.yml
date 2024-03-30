@@ -8,8 +8,8 @@ subtitle: ''
 description: '明德大鹏00后对年味的理解课题组'
 keywords:
 author: 00后对年味的理解课题组
-language: zh-cn
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
