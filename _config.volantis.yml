@@ -658,7 +658,7 @@ plugins:
   globalJquery: false # 全局引入 jquery
   jquery: volantis-static/libs/jquery/dist/jquery.min.js # https://unpkg.com/jquery@3.6.0/dist/jquery.min.js
   # fontawesome Pro 版本：https://cdn.jsdelivr.net/gh/inkss/fontawesome@6.0.0/css/all.min.css
-  fontawesome: volantis-static/libs/@fortawesome/fontawesome-free/css/all.min.css # https://unpkg.com/@fortawesome/fontawesome-free@6.1/css/all.min.css
+  fontawesome: https://npm.elemecdn.com/font6pro@6.0.1/css/all.min.css # https://unpkg.com/@fortawesome/fontawesome-free@6.1/css/all.min.css
   # katex@0.15.2
   katex:
     js: volantis-static/libs/katex/katex.min.js # https://unpkg.com/katex@0.15.2/dist/katex.min.js
@@ -950,7 +950,7 @@ plugins:
 
 ### 自定义右键 新
 rightmenus:
-  enable: false
+  enable: true
   # 右键菜单项及加载顺序
   # 内容示例：plugins.[组名], menus.[组名], hr(分割线，推荐去线留白), music(音乐控制器)
   order:
@@ -1257,17 +1257,16 @@ custom_css:
     footnote: .78125rem
   fontfamily:
     logofont:
-      fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'Varela Round'
-      url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      fontfamily: 'Dosis, "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
+      name: 'Dosis'
+      url: volantis-static/media/fonts/Dosis/Dosis-Medium.ttf
       weight: normal
       style: normal
     bodyfont:
-      fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-      name: 'UbuntuMono'
-      url: volantis-static/media/fonts/UbuntuMono/UbuntuMono-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
-      weight: normal
-      style: normal
+      fontfamily: 'Dosis, "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
+      name: 'Dosis'
+      url: volantis-static/media/fonts/Dosis/Dosis-Medium.ttf
+      weight: normal                                      style: normal
     codefont:
       fontfamily: 'Menlo, UbuntuMono, Monaco'
       # name: 'Monaco'
