@@ -1,0 +1,54 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100%;
+  height: 1200px;
+  overflow: hidden;
+}
+
+a{TEXT-DECORATION:none}
+
+.group_1 {
+  height: 100%;
+  background: url(https://year.qystu.cc/img/MasterDDSSlicePNG6b219d2c447662eeb8571362e3b69e21.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+}
+
+.block_1 {
+  background-color: rgba(25, 18, 33, 0.63);
+  width: 100%;
+  height: 100%;
+  justify-content: flex-center;
+}
+
+@font-face {
+  font-family: YouSheBiaoTiHei;
+  src: url(https://year.qystu.cc/YouSheBiaoTiHei.ttf);
+}
+
+.text_1 {
+  font-family: 'YouSheBiaoTiHei';
+  width: auto;
+  height: 162px;
+  overflow-wrap: break-word;
+  color: rgba(175, 141, 141, 1);
+  font-size: 45px;
+  text-align: left;
+  line-height: 83px;
+  margin-top: 75px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(238, 238, 238, 1);
+  min-width: 370px;
+  height: auto;
+  width: 60%;
+  margin-bottom: 300px;
+  margin: 0 auto;
+}
+

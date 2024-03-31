@@ -16,6 +16,6 @@ pin: true
 
 <br>
 
-{% btn solid large center, 点击播放视频, /voice/, fad fa-flag %}
+{% btn solid large center, 点击播放视频, /video/, fad fa-flag %}
 
 <br>
