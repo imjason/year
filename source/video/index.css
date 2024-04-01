@@ -10,7 +10,7 @@ a{TEXT-DECORATION:none}
 
 .group_1 {
   height: 100%;
-  background: url(https://year.qystu.cc/img/MasterDDSSlicePNG6b219d2c447662eeb8571362e3b69e21.png)
+  background: url(/img/MasterDDSSlicePNG6b219d2c447662eeb8571362e3b69e21.png)
     100% no-repeat;
   background-size: 100% 100%;
   width: 100%;
@@ -25,7 +25,7 @@ a{TEXT-DECORATION:none}
 
 @font-face {
   font-family: YouSheBiaoTiHei;
-  src: url(https://year.qystu.cc/YouSheBiaoTiHei.ttf);
+  src: url(/YouSheBiaoTiHei.ttf);
 }
 
 .text_1 {
