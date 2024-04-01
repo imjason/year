@@ -8,7 +8,7 @@ title: 关于我们在校内所做的调研之分析
   window.addEventListener('resize', function() {
     myChart.resize();
   });
-  option = {
+  var option = {
   legend: {
     orient: "vertical",
     left: "left",
@@ -33,6 +33,7 @@ title: 关于我们在校内所做的调研之分析
       name: "Bananas"
     }]
   }]
+  myChart.setOption(option);
 }
 </script>
 <script>
