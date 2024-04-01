@@ -2,8 +2,13 @@
 title: 关于我们在校内所做的调研之分析
 ---
 <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
-<script>
-option = {
+<div id="main"></div>
+<script type="text/javascript">
+  var myChart = echarts.init(document.getElementById('main'));
+  window.addEventListener('resize', function() {
+    myChart.resize();
+  });
+  option = {
   legend: {
     orient: "vertical",
     left: "left",
@@ -29,4 +34,7 @@ option = {
     }]
   }]
 }
+</script>
+<script>
+
 </script>
