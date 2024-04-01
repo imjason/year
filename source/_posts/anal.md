@@ -1,7 +1,7 @@
 ---
 title: 关于我们在校内所做的调研之分析
 ---
-<script src="https://www.jsdelivr.com/package/npm/echarts">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
 <script>
 option = {
   legend: {
