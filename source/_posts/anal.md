@@ -2,9 +2,9 @@
 title: 关于我们在校内所做的调研之分析
 ---
 <script src="https://cdn.staticfile.org/echarts/5.5.0/echarts.min.js"></script>
-<div id="main" style="width: 600px;height:400px;"></div>
+<div id="01" style="width: 100%"; height: auto></div>
     <script type="text/javascript">
-        var myChart = echarts.init(document.getElementById('main'));
+        var chart01 = echarts.init(document.getElementById('01'));
         var option = {
             title: {
                 text: '第一个 ECharts 实例'
@@ -23,5 +23,5 @@ title: 关于我们在校内所做的调研之分析
                 data: [5, 20, 36, 10, 10, 20]
             }]
         };
-        myChart.setOption(option);
+        chart01.setOption(option);
     </script>
