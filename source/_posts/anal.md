@@ -2,7 +2,6 @@
 title: 关于我们在校内所做的调研之分析
 ---
 <script src="https://cdn.staticfile.org/echarts/5.5.0/echarts.min.js"></script>
-<div id="main"></div>
 <div id="main" style="width: 600px;height:400px;"></div>
     <script type="text/javascript">
         var myChart = echarts.init(document.getElementById('main'));
