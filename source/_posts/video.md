@@ -2,6 +2,7 @@
 robots: noindex,nofollow
 layout: page
 seo_title: 00后与年味的故事
+readmore: false
 date: 2024-04-01
 toc: false
 pin: true
