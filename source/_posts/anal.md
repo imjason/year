@@ -1,5 +1,6 @@
 ---
 title: 关于我们在校内所做的调研之分析
+description: 关于我们在校内所做的调研之分析
 ---
 <script src="https://cdn.staticfile.org/echarts/5.5.0/echarts.min.js"></script>
 <div id="01" style="width: 100%;height: 400px"></div>
