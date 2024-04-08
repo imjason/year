@@ -11,5 +11,13 @@ if (window.location.pathname === '/') {
     }
   `;
   document.head.appendChild(style);
+} else {
+  const style = document.createElement('style');
+  style.innerHTML = `
+    /* 在根目录生效 */
+    #safearea {
+        background-image: none;
+    }
+  `;
 }
 </script>
