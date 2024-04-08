@@ -92,7 +92,7 @@ navbar:
 ############################### Cover ############################### > start
 cover:
   height_scheme: half # full, half
-  layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+  layout_scheme: blank # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
     home: true
     archive: true
@@ -895,11 +895,9 @@ rightmenus:
     - plugins.seletctText
     - plugins.elementCheck
     - plugins.elementImage
-    - menus.link
     - hr
     - menus.darkMode
     - plugins.articlePage
-    - music
   ############################
   # - {id: '', name: '', icon: '', link: '', event: '', group: ''}
   # id: 唯一值
