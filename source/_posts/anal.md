@@ -4,6 +4,7 @@ description: 关于我们在校内所做的调研之分析
 ---
 <script src="https://cdn.staticfile.org/echarts/5.5.0/echarts.min.js"></script>
 <div id="02" style="width: 100%;height: 400px"></div>
+
 ![alt text](d85039ef5062bda882fd94af5344025e.png)
 ![alt text](684ae7e16cf7cc30e2bf7beb4d95d50c.png)
 ![alt text](6c194a37d9c77d3c9f67ee4860cd9a01.png)
