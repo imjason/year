@@ -574,7 +574,7 @@ tag_plugins:
   note: # style for default note:
     icon: '\f054'
     color: ''
-    iconfont: 'Font Awesome 6 Free'
+    iconfont: 'Font Awesome 6 Pro'
   # {% checkbox %}
   checkbox:
     interactive: false # enable interactive for user
