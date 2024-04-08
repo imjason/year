@@ -100,7 +100,7 @@ cover:
   background: /img/背景.jpg
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: '00后对年味的理解'
+  title: '00后高中生对年味的理解'
   subtitle: '研究年味之源'
   features:
 ############################### Cover ############################### > end
@@ -216,7 +216,7 @@ article:
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
         avatar: /img/背景footer.jpg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 00后对年味的理解课题组
+        name: 00后高中生对年味的理解课题组
         url: /
       # 文章创建日期
       date:
