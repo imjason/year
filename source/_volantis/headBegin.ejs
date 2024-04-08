@@ -1,0 +1,14 @@
+// 检查是否在根目录
+if (window.location.pathname === '/') {
+  // 添加 CSS 样式
+  const style = document.createElement('style');
+  style.innerHTML = `
+    /* 在根目录生效 */
+    #safearea {
+        background-image: url("https://year.qystu.cc/img/背景footer.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+  `;
+  document.head.appendChild(style);
+}
