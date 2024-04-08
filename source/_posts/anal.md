@@ -5,7 +5,7 @@ description: 在94份问卷调查与20名同学访谈中，得出以下现象<im
 ### 探究一：过年的主要方式：
 
 ![依然是看电视、吃年夜饭、走亲访友、参与春节习俗
-](/img/gnfs.png)
+](img/6c194a37d9c77d3c9f67ee4860cd9a01.png)
 
 ![对过年，00后高中生最期待什么](./img/67b1a2ed3485eeed6802a34c1adaf886.png)
 
@@ -15,17 +15,15 @@ description: 在94份问卷调查与20名同学访谈中，得出以下现象<im
 
 ![00后高中生对年味的感觉](/img/feel.png)
 
-![00后高中生对年味的感觉](/img/feel1.png)
+![00后高中生对年味的感觉](/img/d000c4f4348c8cd57eaf7442bf5821af.png)
 
-![什么样的事情可以带来年味](/img/nw.png)
+![什么样的事情可以带来年味](/img/947ef53e904da37db91db05bfd60fe66.png)
 
 ### 探究三：“年味“变淡了吗？
 
-![alt text](/img/nwbl.png)
+![alt text](/img/89f2baa6ff189ce01a42c21b0e227d10.png)
 
-![alt text](/img/nwbh.png)
-
-![alt text](/img/bdyy.png)
+![alt text](/img/2f51cfe1ea0048e3f5924dfa40f1424c.png)
 
 <script src="https://cdn.staticfile.org/echarts/5.5.0/echarts.min.js"></script>
 <div id="02" style="width: 100%;height: 250px"></div>
