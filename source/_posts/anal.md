@@ -35,8 +35,8 @@ description: 关于我们在校内所做的调研之分析
 
 
 <script type="text/javascript">
-        var chart02 = echarts.init(document.getElementById('02'));
-        var option = {
+  var chart02 = echarts.init(document.getElementById('02'));
+  var option = {
   legend: {
     orient: "vertical",
     left: "left",
@@ -62,5 +62,5 @@ description: 关于我们在校内所做的调研之分析
     }]
   }]
 }
-chart02.setOption(option);
-    </script>
+  chart02.setOption(option);
+</script>
