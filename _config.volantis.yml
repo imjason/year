@@ -86,16 +86,6 @@ navbar:
     - name: 首页
       icon: fa-solid fa-rss
       url: /
-    - name: 分类
-      icon: fa-solid fa-folder-open
-      url: categories
-    - name: 归档
-      icon: fa-solid fa-archive
-      url: archives/
-    - name: 关于
-      icon: fa-solid fa-info-circle
-      url: about/
-  search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
 
@@ -112,7 +102,6 @@ cover:
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: '00后对年味的理解'
   subtitle: '研究年味之源'
-  search:  # search bar placeholder
   features:
 ############################### Cover ############################### > end
 
