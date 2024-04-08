@@ -9,7 +9,7 @@ pin: true
 ---
 
 <p>
-{% span logo center large, 00后与年味的故事 %}
+{% span logo center large, 00后高中生与年味的故事 %}
 </p>
 <br>
 
