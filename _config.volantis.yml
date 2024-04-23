@@ -459,6 +459,7 @@ sidebar:
         icon: fad fa-bullhorn SUNFLOWER
         title: 访谈视频
       content:
+        - '我们在做了许多同学的访谈后整理了一个这样的视频'
         - '<button class="custom-btn btn-8"><a href="/video">点击播放视频</a></button>'
     blogger:
       class: blogger

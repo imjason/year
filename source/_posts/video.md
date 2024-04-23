@@ -11,13 +11,6 @@ pin: true
 <p>
 {% span logo center large, 00后高中生与年味的故事 %}
 </p>
-<br>
-
-我们在做了许多同学的访谈后整理了一个这样的视频
-
-<br>
-
-{% btn solid large center, 点击播放视频, /video/, fad fa-flag %}
 
 {% gallery %}
 ![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg)
@@ -30,3 +23,4 @@ pin: true
 {% endgallery %}
 
 <br>
+
