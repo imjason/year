@@ -19,4 +19,14 @@ pin: true
 
 {% btn solid large center, 点击播放视频, /video/, fad fa-flag %}
 
+{% gallery %}
+![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg)
+{% endgallery %}
+
+{% gallery::::one %}
+![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg)
+![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/67239FBB-E15D-4F4F-8EE8-0F1C9F3C4E7C.jpeg)
+![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/00E0F0ED-9F1C-407A-9AA6-545649D919F4.jpeg)
+{% endgallery %}
+
 <br>
