@@ -459,7 +459,7 @@ sidebar:
         icon: fad fa-bullhorn SUNFLOWER
         title: 访谈视频
       content:
-        - '{% btn solid large center, 点击播放视频, /video/, fad fa-flag %}'
+        - '<button class="custom-btn btn-8"><a href="/video">点击播放视频</a></button>'
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
