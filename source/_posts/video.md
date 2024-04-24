@@ -18,7 +18,7 @@ pin: true
 
 {% gallery stretch::::one %}
 ![](/img/nwpic/9.jpg)
-![](/img/nwpic/21.jpg)
+![](/img/nwpic/16.jpg)
 ![](/img/nwpic/6.jpg)
 {% endgallery %}
 
@@ -39,11 +39,11 @@ pin: true
 ![](/img/nwpic/13.jpg)
 ![](/img/nwpic/14.jpg)
 ![](/img/nwpic/15.jpg)
-![](/img/nwpic/16.jpg)
 ![](/img/nwpic/17.jpg)
 ![](/img/nwpic/18.jpg)
 ![](/img/nwpic/19.jpg)
 ![](/img/nwpic/20.jpg)
+![](/img/nwpic/21.jpg)
 ![](/img/nwpic/22.jpg)
 ![](/img/nwpic/23.jpg)
 ![](/img/nwpic/24.jpg)
