@@ -13,13 +13,13 @@ pin: true
 </p>
 
 {% gallery %}
-![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/41F215B9-261F-48B4-80B5-4E86E165259E.jpeg)
+![](/img/nwpic/35.jpg)
 {% endgallery %}
 
-{% gallery::::one %}
-![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg)
-![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/67239FBB-E15D-4F4F-8EE8-0F1C9F3C4E7C.jpeg)
-![](https://gcore.jsdelivr.net/gh/volantis-x/cdn-wallpaper/abstract/00E0F0ED-9F1C-407A-9AA6-545649D919F4.jpeg)
+{% gallery stretch::::one %}
+![](/img/nwpic/9.jpg)
+![](/img/nwpic/21.jpg)
+![](/img/nwpic/6.jpg)
 {% endgallery %}
 
 <br>
@@ -31,10 +31,8 @@ pin: true
 ![](/img/nwpic/3.jpg)
 ![](/img/nwpic/4.jpg)
 ![](/img/nwpic/5.jpg)
-![](/img/nwpic/6.jpg)
 ![](/img/nwpic/7.jpg)
 ![](/img/nwpic/8.jpg)
-![](/img/nwpic/9.jpg)
 ![](/img/nwpic/10.jpg)
 ![](/img/nwpic/11.jpg)
 ![](/img/nwpic/12.jpg)
@@ -46,7 +44,6 @@ pin: true
 ![](/img/nwpic/18.jpg)
 ![](/img/nwpic/19.jpg)
 ![](/img/nwpic/20.jpg)
-![](/img/nwpic/21.jpg)
 ![](/img/nwpic/22.jpg)
 ![](/img/nwpic/23.jpg)
 ![](/img/nwpic/24.jpg)
@@ -60,5 +57,4 @@ pin: true
 ![](/img/nwpic/32.jpg)
 ![](/img/nwpic/33.jpg)
 ![](/img/nwpic/34.jpg)
-![](/img/nwpic/35.jpg)
 {% endgallery %}
