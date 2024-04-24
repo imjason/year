@@ -25,7 +25,7 @@ pin: true
 <br>
 
 <!-- more -->
-{% gallery %}
+{% gallery stretch::4::two %}
 ![](/img/nwpic/1.jpg)
 ![](/img/nwpic/2.jpg)
 ![](/img/nwpic/3.jpg)
