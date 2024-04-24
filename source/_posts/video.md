@@ -2,7 +2,7 @@
 robots: noindex,nofollow
 layout: page
 seo_title: 00后高中生与年味的故事
-readmore: false
+# readmore: false
 date: 2024-04-01
 toc: false
 pin: true
@@ -25,6 +25,7 @@ pin: true
 <br>
 
 <!-- more -->
+{% gallery %}
 ![](/img/nwpic/1.jpg)
 ![](/img/nwpic/2.jpg)
 ![](/img/nwpic/3.jpg)
@@ -60,3 +61,4 @@ pin: true
 ![](/img/nwpic/33.jpg)
 ![](/img/nwpic/34.jpg)
 ![](/img/nwpic/35.jpg)
+{% endgallery %}
