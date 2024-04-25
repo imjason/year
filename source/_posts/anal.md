@@ -45,32 +45,5 @@ description: 在94份问卷调查与20名同学访谈中，得出以下现象<im
 
 {% note quote::感觉过年自己可以主导的事情更多了，比如置办年货，买坚果、辣条，安排自己打游戏看电影等—— 刘同学 %}
 
-<script src="https://cdn.staticfile.org/echarts/5.5.0/echarts.min.js"></script>
-<div id="02" style="width: 100%;height: 250px"></div>
-
-
-
 [原始问卷](https://acmeteam.feishu.cn/share/base/form/shrcn3p3spUWi24O50thmQB1whf)
 [原始问卷分析](https://acmeteam.feishu.cn/share/base/dashboard/shrcnCCYQXqKh15rt9I3gEil4Kf)
-
-<script type="text/javascript">
-  var chart02 = echarts.init(document.getElementById('02'));
-  var option = {
-  legend: {
-    orient: "vertical",
-    left: "left",
-    data: ["Apple", "Grapes", "Pineapples", "Oranges", "Bananas"]
-  },
-  series: [{
-    type: "pie",
-    data: [{
-      value: 94,
-      name: "回收量"
-    }, {
-      value: 6,
-      name: "未回收/无效"
-    }]
-  }]
-}
-  chart02.setOption(option);
-</script>
