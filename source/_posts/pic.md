@@ -21,10 +21,8 @@ pin: true
 ![](/img/nwpic/16.jpg)
 ![](/img/nwpic/6.jpg)
 {% endgallery %}
-
-<br>
-
 <!-- more -->
+<br>
 {% gallery stretch::4::two %}
 ![](/img/nwpic/1.jpg)
 ![](/img/nwpic/2.jpg)
