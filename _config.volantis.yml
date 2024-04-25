@@ -461,6 +461,14 @@ sidebar:
       content:
         - '我们在做了许多同学的访谈后整理了一个这样的视频'
         - '<button class="custom-btn btn-8"><a href="/video">点击播放视频</a></button>'
+    code:
+      class: text
+      display: [desktop] # [desktop, mobile]
+      header:
+        icon: fad fa-qrcode SUNFLOWER
+        title: 二维码
+      content:
+        - '<img src="./img/qrcode.png" width="100%"/>'
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
