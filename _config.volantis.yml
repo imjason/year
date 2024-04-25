@@ -459,7 +459,8 @@ sidebar:
         icon: fad fa-bullhorn SUNFLOWER
         title: 访谈视频
       content:
-        - '我们在做了许多同学的访谈后整理了一个这样的视频'
+        - '我们访谈了许多同学，听听他们怎么说'
+        - '<img src="./img/视频.png width="100%"/>'
         - '<button class="custom-btn btn-8"><a href="/video">点击播放视频</a></button>'
     qrcode:
       class: text
