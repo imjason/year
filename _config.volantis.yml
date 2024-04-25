@@ -17,7 +17,7 @@ default:
 # https://content-security-policy.com/
 # 也可以设为 false 在 HTTP 标头中设置 https://volantis.js.org/v5/advanced-settings/#设置-HTTP-响应标头
 csp:
-  enable: true
+  enable: false
   content: "
     default-src 'self' https:;
     block-all-mixed-content;
@@ -529,15 +529,6 @@ sidebar:
       color: true
       start_color: '#999'
       end_color: '#555'
-    # ---------------------------------------
-    # qrcode widget
-    qrcode:
-      class: qrcode
-      display: [desktop, mobile] # [desktop, mobile]
-      height: 64px  # Automatic height if not set
-      images:
-        - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
-        - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/qrcode/github@volantis.png
     # ---------------------------------------
     # webinfo widget
     webinfo:
