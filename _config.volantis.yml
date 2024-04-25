@@ -454,7 +454,7 @@ sidebar:
     # blogger info widget
     board:
       class: text
-      display: [desktop] # [desktop, mobile]
+      display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fad fa-bullhorn SUNFLOWER
         title: 访谈视频
