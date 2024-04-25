@@ -1,5 +1,6 @@
 ---
 title: 调研分析
+date: 2024-04-20
 description: 在94份问卷调查与20名同学访谈中，得出以下现象<img src="./img/67b1a2ed3485eeed6802a34c1adaf886.png" width="100%"/>
 ---
 ### 探究一：过年的主要方式
